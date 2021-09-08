@@ -1,2 +1,2 @@
 # xmasTree
-xmasTree code JavaScript &amp; HTML
+xmasTree Vanilla JavaScript &amp; HTML
